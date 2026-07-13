@@ -25,6 +25,7 @@ textarea { min-height: 110px; resize: vertical; }
 .danger-button { background: #a53d46; }
 .text-button { background: none; border: 0; color: #173861; font-weight: 700; }
 .error-box { padding: 11px 13px; border-radius: 9px; background: #fff0f1; color: #9b2d38; font-size: 13px; }
+.notice-box { padding: 11px 13px; border-radius: 9px; background: #e8f6ee; color: #176b49; font-size: 13px; }
 .center-screen { min-height: 100vh; display: flex; align-items: center; justify-content: center; gap: 12px; color: #657084; }
 .spinner { width: 18px; height: 18px; border: 2px solid #d9e0e8; border-top-color: #b39150; border-radius: 50%; animation: spin .8s linear infinite; }
 @keyframes spin { to { transform: rotate(360deg); } }
